@@ -4,8 +4,8 @@ Rencana Perkuliahan Masing-masing Mata Kuliah 2021
     1. Memahami materi yang diajarkan dengan baikk
     2. Mengerjakan tugas sesuai dengan yang diminta
     3. Dapat menyusun Proposal Tugas Akhir sebaik mungkin
-    4. Mendapatkan nilai yang terbaik dengan indeks akhir A
-    5. Bertanya jika ada yang kurang difahami atau kurang jelas
+    4. Bertanya jika ada yang kurang difahami atau kurang jelas
+    5. Mendapatkan nilai yang terbaik dengan indeks akhir A
     
   - KWU:
     1. Dapat mengimplementasikan materi yang disampaikan pada projek akhir nanti
